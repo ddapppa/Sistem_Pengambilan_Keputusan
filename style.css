@@ -1,0 +1,83 @@
+body {
+  background-color: #f4f7f6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+.navbar {
+  background-color: #0d47a1; /* Biru kampus modern */
+}
+
+.navbar-brand {
+  color: #fff !important;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  margin-bottom: 24px;
+}
+
+.card-header {
+  background-color: #fff;
+  border-bottom: 2px solid #e9ecef;
+  border-radius: 12px 12px 0 0 !important;
+  font-weight: bold;
+  color: #0d47a1;
+  font-size: 1.1rem;
+  padding: 15px 20px;
+}
+
+.table-info-kriteria th {
+  background-color: #e3f2fd;
+  color: #0d47a1;
+  font-size: 0.9rem;
+}
+
+.table-info-kriteria td {
+  font-size: 0.85rem;
+  vertical-align: middle;
+}
+
+.form-label {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.btn-primary {
+  background-color: #1976d2;
+  border: none;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  background-color: #1565c0;
+}
+
+.step-title {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #1976d2;
+  border-left: 4px solid #1976d2;
+  padding-left: 10px;
+  margin-bottom: 15px;
+}
+
+.table-result th {
+  background-color: #343a40;
+  color: #fff;
+  font-size: 0.9rem;
+}
+
+.table-result td {
+  font-size: 0.9rem;
+}
+
+.accordion-button {
+  font-weight: 600;
+  color: #0d47a1;
+}
